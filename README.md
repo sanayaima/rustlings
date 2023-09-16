@@ -1,3 +1,5 @@
+# solving rustlings to learn rustlang
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
